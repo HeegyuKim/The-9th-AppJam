@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/bg"
+            android:background="@drawable/bg_on"/>
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="right"
+            android:id="@+id/share"
+            android:background="@drawable/talk"
+            android:layout_margin="10dp"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        >
+
+    <ImageButton
+        android:layout_width="98dp"
+        android:layout_height="120dp"
+        android:id="@+id/act"
+        android:background="@drawable/button_on"
+        android:layout_marginBottom="93dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitStart"
+        android:layout_gravity="bottom" />
+
+
+    </LinearLayout>
+</RelativeLayout>

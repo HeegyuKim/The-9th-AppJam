@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/GM.cs">
+    <Files>
+      <File FileName="Assets/script/GM.cs" Line="27" Column="14" />
+      <File FileName="Assets/script/overUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/pause.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/playerCol.cs" Line="44" Column="29" />
+      <File FileName="Assets/script/playerSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/skill.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/brain.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/title.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/startbutton.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/playerchange.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/tilt.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

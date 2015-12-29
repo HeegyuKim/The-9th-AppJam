@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <PreferenceCategory >
+
+        <Preference
+            android:title="개발자 정보"
+            android:summary="앱을 만드는데 도움을 주신 분들"
+            android:key="prefUsername"
+            />
+
+        <!--<Preference
+            android:title="계정"
+            android:summary="사용 계정"
+            android:key="prefAccount"
+            />-->
+
+        <Preference
+            android:title="알림"
+            android:summary="설정한 알림"
+            android:key="prefNotification"
+            />
+
+        <Preference
+            android:title="로그"
+            android:summary="삭제했던 영역 되돌리기"
+            android:key="prefLog"
+            />
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>
